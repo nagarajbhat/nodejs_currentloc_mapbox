@@ -1,7 +1,7 @@
 README
 ======
 
-Gets your current location and display it using mapbox.js
+Gets your current location and displays it using mapbox.js
 ---------------------------------------------------------
 
 Steps to get started
